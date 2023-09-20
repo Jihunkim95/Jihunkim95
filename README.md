@@ -8,6 +8,7 @@
 - 취미: 수영, 드라이브, 여행, 독서, 기술자료수집
 - Email: rlatkrnjs1@gmail.com
 - GitHub: [github.com/Jihunkim95](https://github.com/Jihunkim95)
+- Velog:https://velog.io/@darak551/series
 - Instagram: [instagram.com/wwwwji95/](https://www.instagram.com/wwwwji95/)
 
 ```
