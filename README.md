@@ -5,6 +5,7 @@
 
 - 이름: 김지훈
 - 군필여부: 병장 만기전역
+- 학력: 서강대학교 메타버스 테크놀로지 공학석사 재학
 - 취미: 수영, 드라이브, 여행, 독서, 기술자료수집
 - Email: rlatkrnjs1@gmail.com
 - GitHub: [github.com/Jihunkim95](https://github.com/Jihunkim95)
